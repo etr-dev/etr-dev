@@ -2,8 +2,6 @@
 
 ## I'm a Computer Science student at UNCC!!🎓🖥️
 
-[![Elijah's github stats](https://github-readme-stats.vercel.app/api?username=erobin27&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🦠 I’m currently learning react.js
 - 🥅 2020 Goals: Develope a fullstack react.js application
 - 🥊 Fun fact: I train Muay Thai(kick-boxing) and boxing
@@ -15,6 +13,8 @@
 [<img align="left" alt="Elijah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+[![Elijah's github stats](https://github-readme-stats.vercel.app/api?username=erobin27&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 <sub><sup>This is a representation of amount of code found in my repositories, this does not represent language understanding</sup></sub><br>
