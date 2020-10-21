@@ -12,7 +12,7 @@
 [<img align="left" alt="Elijah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Elijah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
+<br><br />
 
 [![Elijah's github stats](https://github-readme-stats.vercel.app/api?username=erobin27&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
