@@ -30,7 +30,8 @@
 
 <br />
 
-
+### 📺 GitHub Repo Languages
+(This is not a representation of language ability or understanding just a representation of what languages are in my repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erobin27&langs_count=8&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
