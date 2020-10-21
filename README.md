@@ -2,7 +2,7 @@
 
 ## I'm a Computer Science student at UNCC!!🎓🖥️
 
-[![Elijah's github stats](https://github-readme-stats.vercel.app/api?username=erobin27)](https://github.com/anuraghazra/github-readme-stats)
+[![Elijah's github stats](https://github-readme-stats.vercel.app/api?username=erobin27&?theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🦠 I’m currently learning react.js
 - 🥅 2020 Goals: Develope a fullstack react.js application
