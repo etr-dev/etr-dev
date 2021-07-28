@@ -3,7 +3,7 @@
 ## I'm a Computer Science student at UNCC!!🎓🖥️
 
 - 🦠 I’m currently learning react.js
-- 🥅 2020 Goals: Develope a fullstack react.js application
+- 🥅 2021 Goals: Work on opensource database projects using postgresql
 - 🥊 Fun fact: I train Muay Thai(kick-boxing) and boxing
 
 ### Connect with me:
