@@ -2,7 +2,7 @@
 
 ## I'm a Computer Science student at UNCC!!🎓🖥️
 
-- 🦠 I’m currently learning react.js
+- 🦠 Currently learning cloud computing!
 - 🥅 2021 Goals: Work on opensource database projects using postgresql
 - 🥊 Fun fact: I train Muay Thai(kick-boxing) and boxing
 
