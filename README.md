@@ -2,8 +2,8 @@
 
 ## I'm a Computer Science student at UNCC!!🎓🖥️
 
-- 🦠 Currently learning cloud computing!
-- 🥅 2021 Goals: Work on opensource database projects using postgresql
+- 🦠 Learning more about React.js
+- 🥅 2021 Goals: Work on opensource projects, hopefully dumps.host
 - 🥊 Fun fact: I train Muay Thai(kick-boxing) and boxing
 
 ### Connect with me:
