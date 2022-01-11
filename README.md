@@ -3,7 +3,7 @@
 ## I'm a Computer Science student at UNCC!!🎓🖥️
 
 - 🦠 Learning more about React.js
-- 🥅 2021 Goals: Work on opensource projects, hopefully dumps.host
+- 🥅 2022 Goals: Work on opensource projects, hopefully dumps.host
 - 🥊 Fun fact: I train Muay Thai(kick-boxing) and boxing
 
 ### Connect with me:
