@@ -1,6 +1,6 @@
 ### Hi there, I'm Elijah 👋
 
-## I'm a Computer Science student at UNCC!!🎓🖥️
+## UNCC Computer Science Graduate!!🎓🖥️
 
 - 🦠 Learning more about React.js
 - 🥅 2022 Goals: Work on opensource projects, hopefully dumps.host
