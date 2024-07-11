@@ -2,10 +2,6 @@
 
 ## UNCC Computer Science Graduate!!🎓🖥️
 
-- 🦠 Learning more about React.js
-- 🥅 2022 Goals: Work on opensource projects, hopefully dumps.host
-- 🥊 Fun fact: I train Muay Thai(kick-boxing) and boxing
-
 ### Connect with me:
 
 [<img align="left" alt="NULLPNTR | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
